@@ -56,6 +56,8 @@ doxygen*.tmp
 /h5_test/tst_h_wrt_cmp
 
 /nc_test/nc_test
+/nc_test/*.nc
+/nc_test/*.cdl
 /nc_test/t_nc
 /nc_test/tst_atts
 /nc_test/tst_atts3
@@ -63,6 +65,7 @@ doxygen*.tmp
 /nc_test/tst_diskless2
 /nc_test/tst_diskless3
 /nc_test/tst_diskless4
+/nc_test/tst_diskless5
 /nc_test/tst_misc
 /nc_test/tst_names
 /nc_test/tst_nofill
